@@ -16,9 +16,9 @@ name: DBIx-Class-Storage-DBI-OpenEdge
 provides:
   DBIx::Class::Storage::DBI::OpenEdge:
     file: lib/DBIx/Class/Storage/DBI/OpenEdge.pm
-    version: 0.01
+    version: 0.02
 requires:
   DBIx::Class: 0.08210
 resources:
   license: http://dev.perl.org/licenses/
-version: 0.01
+version: 0.02
